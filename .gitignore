@@ -5,3 +5,4 @@ __pycache__/
 *.png
 *.jpeg
 ver_modelos.py
+!demo.png
