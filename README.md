@@ -63,6 +63,7 @@ El sistema sigue una arquitectura de microservicios desacoplada:
 
 ## 📸 Demo
 
-![alt text](image.png)
+![Demo-App](demo.png)
+
 ---
 Desarrollado por Facundo Mala - [LinkedIn](www.linkedin.com/in/facundo-mala-933a74249) - [GitHub](https://github.com/facundomala1)
